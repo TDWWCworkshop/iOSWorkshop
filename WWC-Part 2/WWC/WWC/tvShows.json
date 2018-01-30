@@ -1,0 +1,48 @@
+{
+    "resultCount":6, 
+    "results":[
+        {
+            "collectionType":"TV Season",
+            "artistName":"Orange Is the New Black", 
+            "primaryGenreName":"Comedy", 
+            "longDescription":"From the creator of 'Weeds' comes a heartbreaking and hilarious new series set in a women’s prison. Based on Piper Kerman’s acclaimed memoir, 'Orange Is the New Black' follows engaged Brooklynite Piper Chapman, whose wild past comes back to haunt her and results in her arrest and detention in a federal penitentiary. To pay her debt to society, Piper trades her comfortable New York life for an orange prison jumpsuit and finds unexpected conflict and camaraderie amidst an eccentric group of inmates.",
+            "imageName":"orange-is-the-new-black.png"
+        },
+        {
+            "collectionType":"TV Season",
+            "artistName":"Stranger Things", 
+            "primaryGenreName":"Sci-Fi & Horror", 
+            "longDescription":"Stranger Things is an American science fiction horror web television series created by the Duffer Brothers. Set in the fictional town of Hawkins, Indiana, in the 1980s, the first season focuses on the investigation into the disappearance of a young boy amid supernatural events occurring around the town including the appearance of a girl with psychokinetic abilities who helps the missing boy's friends in their own search. ",
+            "imageName":"stranger-things.png"
+        },
+        {
+            "collectionType":"TV Season",
+            "artistName":"Outlander", 
+            "primaryGenreName":"Drama", 
+            "longDescription":"Claire Randall is reunited with her husband after returning from the battlefields of World War II. While on their second honeymoon she walks through one of the ancient stone circles that dot the British Isles and is suddenly transported to 1743 Scotland, torn by war and rogue Highland clans. Hurled back in time by forces she cannot understand, Claire is catapulted into intrigue and danger when she is accused of being a spy. Forced by circumstance to marry an outlawed Highlander, she finds herself falling in love and torn by her loyalties to two men in vastly different times, all of which may threaten her life and shatter her heart.",
+            "imageName":"outlander.png"
+        },
+        {
+            "collectionType":"TV Season",
+            "artistName":"The Good Doctor", 
+            "primaryGenreName":"Drama", 
+            "longDescription":"Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Alone in the world and unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+            "imageName":"the-good-doctor.png"
+        },
+        {
+            "collectionType":"TV Season",
+            "artistName":"The Big Bang Theory", 
+            "primaryGenreName":"Comedy", 
+            "longDescription":"Meet two brainiacs with a lot to learn. Leonard and Sheldon can tell their quarks from their quantum physics, but have no clue how women add up. Leave it to their pretty new neighbor, just off a messy breakup, to teach them a thing or two in The Big Bang Theory.",
+            "imageName":"the-big-bang-theory.png"
+        },
+        {
+            "collectionType":"TV Season",
+            "artistName":"Game of Thrones", 
+            "primaryGenreName":"Sci-Fi & Fantasy", 
+            "longDescription":"Trouble is brewing in Westeros. For the inhabitants of this world, control of the Iron Throne holds the lure of great power. But in a land where seasons can last a lifetime, winter is coming...and beyond the Great Wall that protects them, a forgotten evil has returned. HBO presents this epic series based on the book series 'A Song of Ice and Fire' by George R.R. Martin.",
+            "imageName":"game-of-thrones.png"
+        }
+    ]
+}
+
