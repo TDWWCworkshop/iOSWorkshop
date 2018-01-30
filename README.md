@@ -1,5 +1,5 @@
-# iOSWorkshop
-Women Who Code iOS Workshop Hosted by TD Bank
+# iOS Workshop - Beginner Level
+Women Who Code Beginner Level iOS Workshop Hosted by TD Bank
 
 ### Info
 This workshop was created to teach beginners the basics of iOS development. We will explain how to use **TableViews, ViewControllers**, **Delegates**, **Datasources** and **Storyboards** throughout guide. We presented this workshop live on January 30th to Women Who Code and have created the Step By Step guide to help participants finish part 3. 
